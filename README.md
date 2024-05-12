@@ -15,6 +15,10 @@ Our project aims to simplify the process of converting video files into multiple
 - **HLS and DASH Support**: Seamlessly encode your videos into HLS and DASH formats, ensuring compatibility with a wide range of platforms.
 - **Convenient Packaging**: Download your converted videos conveniently packaged into a ZIP format for easy access and distribution.
 
+## Demo Screenshot
+
+![Demo Screenshot](screenshot.png)
+
 ## Getting Started
 
 To get started with our project, follow these steps:
